@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-STREAM-INF:BANDWIDTH=3105576,AVERAGE-BANDWIDTH=811859,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+#EXT-X-SESSION-DATA:DATA-ID="storyboard",VALUE="https://cdn.jsdelivr.net/gh/joshuarichardzoho-wq/storyboard_fileHosting@87f352691af03ed36571318e366874c2188cfc0a/fileHosting_3/L1/zvpstoryboard_P1.webp"
 stream.m3u8
 
